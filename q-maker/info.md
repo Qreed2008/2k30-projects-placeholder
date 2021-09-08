@@ -11,4 +11,4 @@ I mean, just look at the [examples](https://scratchblocks.github.io/#?style=scra
 
 The custom editor includes many other things too. For example, you can change what physics the level has.
 
-You can overlay tracks, too :)
+You can overlay tracks, too (Must enable in advanced mode)
