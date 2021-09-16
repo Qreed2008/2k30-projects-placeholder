@@ -1,5 +1,5 @@
 # Q-maker
-Edit 9/15/2021: The source code will **not** be held here, and final releases will stopbeing public after a certain point of looking like the original.
+Edit 9/15/2021: The source code will ***not*** be held here, and final releases will stop being public after a certain point of looking like the original, if they even are held here at all.
 
 A Super Mario Maker 2 replica, originally thought up as an alternative to Mario Multiverse, but is now intended to be a super extensive version of the original.
 
